@@ -20,7 +20,7 @@ public class Buku01 {
 
 
     void tampilinformasi() {
-        System.out.println("judul: " +judul);
+        System.out.println("Judul: " +judul);
         System.out.println("pengarang: " +pengarang);
         System.out.println("jumlah halaman: " +halaman);
         System.out.println("sisa stok: " +stock);
